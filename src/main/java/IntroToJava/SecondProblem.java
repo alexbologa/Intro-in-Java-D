@@ -14,6 +14,7 @@ public class SecondProblem {
 
         int[] arr = new int[n];
 
+
         System.out.println("Enter the elements for your array: " +" :D");
         for (int i = 0; i < n; i++) {
             arr[i] = keyboard.nextInt();
